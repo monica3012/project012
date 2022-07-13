@@ -1,4 +1,5 @@
 x=28
 y=28
-z=x*y
-print("multiple = " ,z) 
+z = 20
+result=x*y*z
+print("multiple = " ,result) 
