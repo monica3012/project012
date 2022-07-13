@@ -1,3 +1,4 @@
 x=28
 y=28
-print("sum is equal =" ,sum) 
+z=x-y
+print("subtract is equal =" ,z) 
