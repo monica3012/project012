@@ -1,5 +1,2 @@
-x=20
-if x<=10:
-    print("x is equal to ")
-else:
-    print("x is not equal to 10")
+friends = ["monica","malini","ramya","pallavi"]
+print(friends [1:3])
